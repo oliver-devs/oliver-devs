@@ -1,16 +1,37 @@
-## Hi there 👋
+### Hallo, ich bin Oliver! 👋
 
-<!--
-**oliver-devs/oliver-devs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin ein technologiebegeisterter **Umschüler zum Fachinformatiker** mit einer starken Affinität zu Mathematik und logischen Strukturen.
 
-Here are some ideas to get you started:
+Mein Ziel ist es, meine theoretischen Grundlagen (aus Studium und Umschulung) mit moderner Praxis zu verbinden. Aktuell suche ich nach einem Praktikumsplatz ab August 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack & Skills
+
+Hier ist eine Übersicht meiner bisherigen Erfahrungen und aktuellen Lernfelder:
+
+**💻 Solides Fundament (aus Studium & Umschulung)**
+* **Java & C++:** Verständnis für Objektorientierung, Speicherverwaltung und strikte Typisierung.
+* **Python:** Automatisierung, Scripting und Datenverarbeitung.
+* **Mathematik:** Analytisches Denken und Problemlösungskompetenz.
+
+**🌐 Web-Entwicklung**
+* **HTML5 & CSS3:** Struktur und Design (Responsive Webdesign).
+* **JavaScript:** Interaktivität (aktueller Fokus in der Umschulung).
+
+**🌱 Was ich aktuell lerne & plane**
+* **Angular:** Einarbeitung in komponentenbasierte Frameworks.
+* **FastAPI:** Aufbau von schnellen, modernen APIs mit Python.
+* *Ich habe bereits die Entwicklungsumgebungen eingerichtet und starte nun erste Projekte.*
+
+---
+
+### 🔭 Aktuelle Projekte
+* **Webseiten-Nachbau:** Ein Übungsprojekt, um HTML/CSS Standards zu verinnerlichen.
+* **Environment Setup:** Konfiguration von Entwicklungsumgebungen für Angular und FastAPI.
+
+---
+
+### 📫 Kontakt
+Gerne vernetze ich mich für den fachlichen Austausch oder Job-Angebote!
+* E-Mail: mense.bildung@outlook.com]
