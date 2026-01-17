@@ -34,4 +34,4 @@ Hier ist eine Übersicht meiner bisherigen Erfahrungen und aktuellen Lernfelder:
 
 ### 📫 Kontakt
 Gerne vernetze ich mich für den fachlichen Austausch oder Job-Angebote!
-* E-Mail: mense.bildung@outlook.com]
+* E-Mail: oliver.devs@outlook.com
