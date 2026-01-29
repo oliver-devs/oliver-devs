@@ -11,7 +11,7 @@
       font-weight: 400; 
       font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
       fill: #555;
-      letter-spacing: 10px;
+      letter-spacing: 8px;
       text-transform: uppercase;
     }
     
