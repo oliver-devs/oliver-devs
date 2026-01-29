@@ -4,11 +4,11 @@
       font-size: 56px; 
       font-weight: 900; 
       font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
-      fill: #0b3d91; 
-    } 
+      fill: #0b3d91;
+    }
     .desc { 
-      font-size: 16px; 
-      font-weight: 400; 
+      font-size: 16px;
+      font-weight: 400;
       font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
       fill: #555;
       letter-spacing: 8px;
@@ -19,7 +19,7 @@
       .text { fill: #ffffff; }
       .desc { fill: #aaaaaa; }
     }
-
+    
     .animate-in { animation: fadeIn 1.5s ease-out forwards; }
     @keyframes fadeIn { from { opacity: 0; transform: translateY(-10px); } to { opacity: 1; transform: translateY(0); } }
   </style>
@@ -38,5 +38,5 @@
   </g>
 
   <text text-anchor="middle" x="50%" y="100" class="text animate-in">OLIVER</text>
-  <text text-anchor="middle" x="50%" y="125" class="desc animate-in">Developments</text>
+  <text text-anchor="middle" x="50%" y="125"dx="-4" class="desc animate-in">Developments</text>
 </svg>
