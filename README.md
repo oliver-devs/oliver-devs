@@ -2,7 +2,7 @@
 
 Ich bin ein technologiebegeisterter **Umschüler zum Fachinformatiker** mit einer starken Affinität zu Mathematik und logischen Strukturen.
 
-Mein Ziel ist es, meine theoretischen Grundlagen (aus Studium und Umschulung) mit moderner Praxis zu verbinden. Aktuell suche ich nach einem Praktikumsplatz ab August 2026.
+Mein Ziel ist es, meine theoretischen Grundlagen (aus Studium und Umschulung) mit moderner Praxis zu verbinden. Aktuell suche ich für meine Umschulung nach einem Praktikumsplatz vom 10. August 2026 bis zum 2. April 2027.
 
 ---
 
