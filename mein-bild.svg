@@ -7,7 +7,7 @@
       fill: #0b3d91;
     }
     .desc { 
-      font-size: 16px;
+      font-size: 17px;
       font-weight: 400;
       font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
       fill: #555;
@@ -25,18 +25,18 @@
   </style>
   
   <g>
-    <path fill="#0b3d91" opacity="0.25">
+    <path fill="#283f67" opacity="0.25">
       <animate attributeName="d" dur="18s" repeatCount="indefinite"
         calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"
         values="M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z;M0 0L 0 165Q 213.5 180 427 160T 854 150L 854 0 Z;M0 0L 0 185Q 213.5 155 427 185T 854 150L 854 0 Z;M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z" />
     </path>
-    <path fill="#fc3d21" opacity="0.15">
+    <path fill="#7fc0c0" opacity="0.15">
       <animate attributeName="d" dur="14s" begin="-7s" repeatCount="indefinite"
         calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"
         values="M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z;M0 0L 0 170Q 213.5 140 427 140T 854 160L 854 0 Z;M0 0L 0 165Q 213.5 145 427 170T 854 185L 854 0 Z;M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z" />
     </path>
   </g>
 
-  <text text-anchor="middle" x="50%" y="100" class="text animate-in">OLIVER</text>
-  <text text-anchor="middle" x="50%" y="125" dx="6" class="desc animate-in">Developments</text>
+  <text text-anchor="middle" x="50%" y="100" dx="0" class="text animate-in">OLIVER</text>
+  <text text-anchor="middle" x="50%" y="125" dx="5" class="desc animate-in">Developments</text>
 </svg>
