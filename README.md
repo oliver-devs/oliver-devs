@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header.svg" alt="Oliver Header">
+</p>
+
 ### Hallo, ich bin Oliver! 👋
 
 Ich bin ein technologiebegeisterter **Umschüler zum Fachinformatiker** mit einer starken Affinität zu Mathematik und logischen Strukturen.
