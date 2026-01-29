@@ -1,28 +1,36 @@
-<svg width="1024" height="240" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 240">
-  <defs>
-    <linearGradient id="spaceGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0b3d91;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#000000;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-
+<svg width="100%" height="150" viewBox="0 0 854 150" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .text { font-size: 42px; font-weight: 800; font-family: 'Segoe UI', Arial, sans-serif; fill: #ffffff; }
-    .desc { font-size: 18px; font-weight: 300; font-family: 'Segoe UI', Arial, sans-serif; fill: #f1f1f1; letter-spacing: 2px; text-transform: uppercase; }
-    .fadeIn { animation: fadeIn 2s ease-in-out forwards; }
-    @keyframes fadeIn { from { opacity: 0; transform: translateY(-10px); } to { opacity: 1; transform: translateY(0); } }
-  </style>
+    .text { 
+      font-size: 42px; 
+      font-weight: 800; 
+      font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+      fill: #0b3d91; /* NASA Blue */
+      transition: fill 0.3s;
+    } 
+    .desc { font-size: 18px; font-weight: 400; fill: #555; }
+    
+    @media (prefers-color-scheme: dark) {
+      .text { fill: #ffffff; }
+      .desc { fill: #cccccc; }
+    }
 
-  <g opacity="0.8">
-    <path d="" fill="#0b3d91" opacity="0.6">
+    .text-fade { animation: fadeIn 1.5s ease-in-out forwards; }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+  </style>
+  
+  <g transform="translate(427, 75) scale(1, 1) translate(-427, -75)">
+    <path fill="#0b3d91" opacity="0.3">
       <animate attributeName="d" dur="15s" repeatCount="indefinite"
-        values="M0 0L 0 100Q 213.5 140 427 110T 854 135L 854 0 Z;M0 0L 0 125Q 213.5 140 427 120T 854 110L 854 0 Z;M0 0L 0 145Q 213.5 115 427 145T 854 110L 854 0 Z;M0 0L 0 100Q 213.5 140 427 110T 854 135L 854 0 Z" />
+        calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"
+        values="M0 0L 0 70Q 213.5 110 427 80T 854 105L 854 0 Z;M0 0L 0 95Q 213.5 110 427 90T 854 80L 854 0 Z;M0 0L 0 115Q 213.5 85 427 115T 854 80L 854 0 Z;M0 0L 0 70Q 213.5 110 427 80T 854 105L 854 0 Z" />
     </path>
-    <path d="" fill="#fc3d21" opacity="0.3"> <animate attributeName="d" dur="18s" repeatCount="indefinite" begin="-5s"
-        values="M0 0L 0 115Q 213.5 160 427 130T 854 140L 854 0 Z;M0 0L 0 130Q 213.5 100 427 100T 854 120L 854 0 Z;M0 0L 0 125Q 213.5 105 427 130T 854 145L 854 0 Z;M0 0L 0 115Q 213.5 160 427 130T 854 140L 854 0 Z" />
+    <path fill="#fc3d21" opacity="0.25">
+      <animate attributeName="d" dur="12s" begin="-5s" repeatCount="indefinite"
+        calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"
+        values="M0 0L 0 85Q 213.5 130 427 100T 854 110L 854 0 Z;M0 0L 0 100Q 213.5 70 427 70T 854 90L 854 0 Z;M0 0L 0 95Q 213.5 75 427 100T 854 115L 854 0 Z;M0 0L 0 85Q 213.5 130 427 100T 854 110L 854 0 Z" />
     </path>
   </g>
 
-  <text text-anchor="middle" x="50%" y="45%" class="text fadeIn">OLIVER</text>
-  <text text-anchor="middle" x="50%" y="65%" class="desc fadeIn" style="animation-delay: 0.5s;">Wirtschaftsassistent Informatik</text>
+  <text text-anchor="middle" x="50%" y="55%" class="text text-fade">OLIVER</text>
+  <text text-anchor="middle" x="50%" y="85%" class="desc text-fade" style="font-family: monospace; letter-spacing: 3px;">Wirtschaftsassistent Informatik</text>
 </svg>
