@@ -1,4 +1,4 @@
-<svg width="100%" height="auto" viewBox="0 0 854 300" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="auto" viewBox="0 0 854 240" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
   <style>
     .text { 
       font-size: 56px; 
@@ -39,4 +39,5 @@
 
   <text text-anchor="middle" x="50%" y="100" class="text animate-in">OLIVER</text>
   <text text-anchor="middle" x="50%" y="145" class="desc animate-in">Wirtschaftsassistent</text>
+  <text text-anchor="middle" x="50%" y="160" class="desc animate-in">Informatik</text>
 </svg>
