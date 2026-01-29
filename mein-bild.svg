@@ -1,0 +1,25 @@
+<svg width="854" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 200">
+  <defs>
+    <linearGradient id="spaceGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0b3d91;stop-opacity:1" /> <stop offset="100%" style="stop-color:#000000;stop-opacity:1" /> </linearGradient>
+  </defs>
+
+  <style>
+    .text { font-size: 42px; font-weight: 800; font-family: 'Segoe UI', Arial, sans-serif; fill: #ffffff; }
+    .desc { font-size: 18px; font-weight: 300; font-family: 'Segoe UI', Arial, sans-serif; fill: #f1f1f1; letter-spacing: 2px; text-transform: uppercase; }
+    .fadeIn { animation: fadeIn 2s ease-in-out forwards; }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(-10px); } to { opacity: 1; transform: translateY(0); } }
+  </style>
+
+  <g opacity="0.8">
+    <path d="" fill="#0b3d91" opacity="0.6">
+      <animate attributeName="d" dur="15s" repeatCount="indefinite"
+        values="M0 0L 0 100Q 213.5 140 427 110T 854 135L 854 0 Z;M0 0L 0 125Q 213.5 140 427 120T 854 110L 854 0 Z;M0 0L 0 145Q 213.5 115 427 145T 854 110L 854 0 Z;M0 0L 0 100Q 213.5 140 427 110T 854 135L 854 0 Z" />
+    </path>
+    <path d="" fill="#fc3d21" opacity="0.3"> <animate attributeName="d" dur="18s" repeatCount="indefinite" begin="-5s"
+        values="M0 0L 0 115Q 213.5 160 427 130T 854 140L 854 0 Z;M0 0L 0 130Q 213.5 100 427 100T 854 120L 854 0 Z;M0 0L 0 125Q 213.5 105 427 130T 854 145L 854 0 Z;M0 0L 0 115Q 213.5 160 427 130T 854 140L 854 0 Z" />
+    </path>
+  </g>
+
+  <text text-anchor="middle" x="50%" y="45%" class="text fadeIn">OLIVER</text>
+</svg>
