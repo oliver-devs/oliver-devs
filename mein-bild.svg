@@ -24,4 +24,5 @@
   </g>
 
   <text text-anchor="middle" x="50%" y="45%" class="text fadeIn">OLIVER</text>
+  <text text-anchor="middle" x="50%" y="65%" class="desc fadeIn" style="animation-delay: 0.5s;">Wirtschaftsassistent Informatik</text>
 </svg>
