@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg" alt="Oliver Header">
+  <img src="mein-bild.svg" alt="Oliver Header">
 </p>
 
 ### Hallo, ich bin Oliver! 👋
