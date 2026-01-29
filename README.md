@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="mein-bild.svg" alt="Oliver Header">
+  <img src="mein-bild.svg" alt="oliver-devs header">
 </p>
 
 ### Hallo, ich bin Oliver! 👋
 
-Ich bin ein technologiebegeisterter **Umschüler zum Fachinformatiker** mit einer starken Affinität zu Mathematik und logischen Strukturen.
+Ich bin ein technologiebegeisterter **Umschüler zum Fachinformatiker** mit einer starken Affinität zur Mathematik und logischen Strukturen.
 
-Mein Ziel ist es, meine theoretischen Grundlagen (aus Studium und Umschulung) mit moderner Praxis zu verbinden. Aktuell suche ich für meine Umschulung nach einem Praktikumsplatz vom 10. August 2026 bis zum 2. April 2027.
+Mein Ziel ist es, meine theoretischen Grundlagen (aus Studium und Umschulung) mit moderner Praxis zu verbinden. Aktuell suche ich für meine **Umschulung** nach einem **Praktikumsplatz**, im Zeitraum vom **10. August 2026** bis zum **2. April 2027**.
 
 ---
 
@@ -31,8 +31,13 @@ Hier ist eine Übersicht meiner bisherigen Erfahrungen und aktuellen Lernfelder:
 ---
 
 ### 🔭 Aktuelle Projekte
-* **Webseiten-Nachbau:** Ein Übungsprojekt, um HTML/CSS Standards zu verinnerlichen.
-* **Environment Setup:** Konfiguration von Entwicklungsumgebungen für Angular und FastAPI.
+* **📐 OOP Geometrie System:**
+  Ein Deep-Dive in Objektorientierte Programmierung (Python).
+  Entwicklung einer Klassenhierarchie für geometrische Formen mit Fokus auf **Vererbung**, **Polymorphie** und **mathematische Algorithmen** zur Flächen- und Umfangsberechnung.
+* **🌐 Webseiten-Nachbau:**
+  Ein Frontend-Übungsprojekt, um modernes HTML & CSS, sowie Responsive Design Standards praktisch umzusetzen und zu verinnerlichen.
+* **⚙️ Environment Setup:**
+  Konfiguration von professionellen Entwicklungsumgebungen und Pipelines für Angular und Python (FastAPI).
 
 ---
 
