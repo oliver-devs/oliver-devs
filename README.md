@@ -2,23 +2,26 @@
   <img src="./mein-bild.svg" width="100%" alt="Oliver Developments Banner" />
 
   <h3 style="margin-top: 10px; font-weight: normal;">
-    <i>"Mathematische Präzision trifft auf moderne Software-Architektur."</i>
+    <i>"Mathematische Präzision trifft auf Backend-Logik & Visuelle Umsetzung."</i>
   </h3>
 
   <h1 style="margin-bottom: 10px;">Hallo, ich bin Oliver! 👋</h1>
 
   <p width="80%">
-    Ich bin ein technologiebegeisterter <b>Umschüler zum Fachinformatiker</b> mit einer starken Affinität zur Mathematik und logischen Strukturen.
+    Ich bin ein <b>Fachinformatiker in Umschulung</b> mit einer besonderen Geschichte:
+    <br>
+    Meine Leidenschaft für IT reicht <b>von Pascal bis Python</b> – gestützt durch ein akademisches Fundament in <b>Mathematik</b>.
     <br><br>
-    Mein Ziel ist es, meine theoretischen Grundlagen (aus Studium und Umschulung) mit moderner Praxis zu verbinden. 
-    Aktuell suche ich für meine <b>Umschulung</b> nach einem <b>Praktikumsplatz</b>, im Zeitraum vom <b>10. August 2026</b> bis zum <b>2. April 2027</b>.
+    Mein Fokus liegt auf <b>Backend-Architekturen</b>, <b>Datenstrukturen</b> und deren sauberer <b>visueller Darstellung</b>.
+    <br>
+    Aktuell suche ich für mein <b>Pflichtpraktikum</b> einen Partner, der Wert auf Logik und Code-Qualität legt.
   </p>
 
   <br>
 
   <table>
     <tr>
-      <td align="center" width="500px">
+      <td align="center" width="550px">
         <p align="center">
             <b>🔭 OPEN TO WORK: PRAKTIKUMSPHASE</b>
         </p>
@@ -32,9 +35,10 @@
   <br>
 
   <p>
-    <img src="https://img.shields.io/badge/Java-OOP-0b3d91?style=flat-square&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-Data-0b3d91?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Math-Logic-0b3d91?style=flat-square&logo=wolframmathematica&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-Backend_&_Data-0b3d91?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-Web_Logic-0b3d91?style=flat-square&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-Datenbanken-0b3d91?style=flat-square&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Math-Algorithmen-0b3d91?style=flat-square&logo=wolframmathematica&logoColor=white" />
     <br>
     <a href="mailto:oliver.devs@outlook.com">
       <img src="https://img.shields.io/badge/Email-Kontaktieren-fc3d21?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
@@ -44,37 +48,22 @@
 
 ---
 
-### 🛠 Tech Stack & Skills
+### 🛠 Tech Stack & Kompetenzen
 
-Hier ist eine Übersicht meiner bisherigen Erfahrungen und aktuellen Lernfelder:
+Hier verbinde ich 30 Jahre IT-Affinität mit modernen Technologien:
 
+**💻 Backend & Data (Mein Schwerpunkt)**
+* **Python:** Datenverarbeitung (Pandas/NumPy), OOP und API-Design.
+* **SQL:** Design komplexer Datenbankabfragen und Datenmodellierung.
+* **Mathematik:** Lineare Algebra, Analysis & Zahlentheorie als Basis für effiziente Algorithmen.
+* **Java & C++:** Akademisches Fundament (Speicherverwaltung, strikte Typisierung).
 
-**💻 Solides Fundament (aus Studium & Umschulung)**
-* **Java & C++:** Verständnis für Objektorientierung, Speicherverwaltung und strikte Typisierung.
-* **Python:** Automatisierung, Scripting und Datenverarbeitung.
-* **Mathematik:** Analytisches Denken und Problemlösungskompetenz.
+**🌐 Web & Visualisierung**
+* **PHP:** Entwicklung dynamischer Web-Logik (Erfahrung aus Uni-Projekten).
+* **HTML & CSS:** Visuelle Umsetzung von Backend-Daten (Responsive Design).
+* **Tools:** Git, VS Code, Linux (Bash).
 
-
-**🌐 Web-Entwicklung**
-* **HTML5 & CSS3:** Struktur und Design (Responsive Webdesign).
-* **JavaScript:** Interaktivität (aktueller Fokus in der Umschulung).
-
-
-**🌱 Was ich aktuell lerne & plane**
-* **Angular:** Einarbeitung in komponentenbasierte Frameworks.
-* **FastAPI:** Aufbau von schnellen, modernen APIs mit Python.
-* *Ich habe bereits die Entwicklungsumgebungen eingerichtet und starte nun erste Projekte.*
-
----
-
-### 🔭 Aktuelle Projekte
-* **📐 OOP Geometrie System:**
-  Ein Deep-Dive in Objektorientierte Programmierung (Python).
-  Entwicklung einer Klassenhierarchie für geometrische Formen mit Fokus auf **Vererbung**, **Polymorphie** und **mathematische Algorithmen** zur Flächen- und Umfangsberechnung.
-
-* **🌐 Webseiten-Nachbau:**
-  Ein Frontend-Übungsprojekt, um modernes HTML & CSS, sowie Responsive Design Standards praktisch umzusetzen und zu verinnerlichen.
-
-* **⚙️ Environment Setup:**
-  Konfiguration von professionellen Entwicklungsumgebungen und Pipelines für Angular und Python (FastAPI).
-  
+**🌱 Aktuelle Lernfelder (Eigeninitiative)**
+* **FastAPI:** Aufbau performanter Schnittstellen mit Python.
+* **Computer Vision & Visualisierung:** Anwendung mathematischer Algorithmen zur Bildanalyse (z.B. mit OpenCV).
+* *Konstante Weiterbildung in Clean Code Prinzipien.*
