@@ -11,7 +11,6 @@
       font-weight: 400;
       font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
       fill: #555;
-      letter-spacing: 8px;
       text-transform: uppercase;
     }
     
@@ -37,6 +36,6 @@
     </path>
   </g>
 
-  <text text-anchor="middle" x="50%" y="100" dx="0" class="text animate-in" textLength="300" lengthAdjust="spacing">OLIVERS</text>
-  <text text-anchor="middle" x="50%" y="125" dx="5" class="desc animate-in" textLength="300" lengthAdjust="spacing">Entwicklungen</text>
+  <text text-anchor="middle" x="50%" y="100" class="text animate-in" textLength="300" lengthAdjust="spacing">OLIVERS</text>
+  <text text-anchor="middle" x="50%" y="125" class="desc animate-in" textLength="300" lengthAdjust="spacing">Entwicklungen</text>
 </svg>
