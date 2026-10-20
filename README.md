@@ -19,21 +19,6 @@
 
   <br>
 
-  <table>
-    <tr>
-      <td align="center" width="550px">
-        <p align="center">
-            <b>🔭 OPEN TO WORK: PRAKTIKUMSPHASE</b>
-        </p>
-        <p align="center">
-            <img src="https://img.shields.io/badge/Verfügbarkeit-10._Aug_'26_bis_02._Apr_'27-0b3d91?style=for-the-badge&logo=calendar&logoColor=white" />
-        </p>
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
   <p>
     <img src="https://img.shields.io/badge/Python-Backend_&_Data-0b3d91?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/PHP-Web_Logic-0b3d91?style=flat-square&logo=php&logoColor=white" />
