@@ -38,5 +38,5 @@ Hier verbinde ich 30 Jahre IT-Affinität mit modernen Technologien:
 * **Git & Linux (Bash):** Versionsverwaltung und Arbeiten auf der Kommandozeile.
 
 **🌱 Aktuelle Lernfelder**
-* **TypeScript:** Typsystem und saubere Struktur, geübt an eigenen Projekt.
+* **TypeScript:** Typsystem und saubere Struktur, geübt an eigenen Projekten.
 * **Clean Code:** Lesbarer, testbarer Code als feste Gewohnheit.
