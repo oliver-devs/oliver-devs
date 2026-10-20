@@ -7,15 +7,17 @@
 
   <h1 style="margin-bottom: 10px;">Hallo, ich bin Oliver! 👋</h1>
 
-  <p width="80%">
-    Ich bin ein <b>Fachinformatiker in Umschulung</b> mit einer besonderen Geschichte:
+  <p align="center">
+    Ich mache eine <b>Umschulung zum Fachinformatiker</b> und habe eine etwas andere Geschichte:
     <br>
-    Meine Leidenschaft für IT reicht <b>von Pascal bis Python</b> – gestützt durch ein akademisches Fundament in <b>Mathematik</b>.
-    <br><br>
-    Mein Fokus liegt auf <b>Backend-Architekturen</b>, <b>Datenstrukturen</b> und deren sauberer <b>visueller Darstellung</b>.
+    Meine Leidenschaft für IT reicht <b>von Pascal bis Python</b>, gestützt durch ein akademisches Fundament in <b>Mathematik</b>.
     <br>
-    Aktuell suche ich für mein <b>Pflichtpraktikum</b> einen Partner, der Wert auf Logik und Code-Qualität legt.
-  </p>
+    <br>
+    Mich interessieren <b>Backend-Logik</b>, <b>Datenstrukturen</b> und Code, der sauber und nachvollziehbar bleibt.
+    <br>
+    <br>
+    <i>Olivers Entwicklungen</i> heißt beides: die Software, die ich baue, und meine eigene Entwicklung als Softwareentwickler.
+</p>
 </div>
 
 ---
@@ -36,6 +38,7 @@ Hier verbinde ich 30 Jahre IT-Affinität mit modernen Technologien:
 * **Tools:** Git, VS Code, Linux (Bash).
 
 **🌱 Aktuelle Lernfelder (Eigeninitiative)**
+* **TypeScript:** Typsystem und saubere Struktur anhand eigener Projekte.
 * **FastAPI:** Aufbau performanter Schnittstellen mit Python.
 * **Computer Vision & Visualisierung:** Anwendung mathematischer Algorithmen zur Bildanalyse (z.B. mit OpenCV).
 * *Konstante Weiterbildung in Clean Code Prinzipien.*
