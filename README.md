@@ -7,13 +7,9 @@
     <br>
     Meine Leidenschaft für IT reicht <b>von Pascal bis Python</b>, gestützt durch ein akademisches Fundament in <b>Mathematik</b>.
     <br><br>
-    Mir ist <b>sauberer, nachvollziehbarer Code</b> wichtig, und ich lerne gerade <b>TypeScript</b>.
+    Am liebsten schreibe ich <b>Code, den andere ohne Erklärung verstehen</b>.
     <br><br>
-    <i>Olivers Entwicklungen</i> heißt beides: die Software, die ich baue, und meine eigene Entwicklung als Softwareentwickler.
-    <br><br>
-    ·  ·  ·
-    <br><br>
-    <i>Wer sich weiterentwickelt, entwickelt besser.</i>
+    <i>„Olivers Entwicklungen" meint für mich beides: das, was ich baue, und das, was ich dabei lerne.</i>
   </p>
 </div>
 
@@ -21,7 +17,7 @@
 
 ### 🛠 Tech Stack & Kompetenzen
 
-Hier verbinde ich 30 Jahre IT-Affinität mit modernen Technologien:
+Hier verbinde ich langjährige IT-Begeisterung mit modernen Technologien:
 
 **💻 Programmierung & Daten**
 * **Python:** Datenverarbeitung mit Pandas/NumPy, OOP und API-Design.
