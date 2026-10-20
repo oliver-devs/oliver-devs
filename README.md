@@ -1,23 +1,23 @@
 <div align="center">
-  <img src="./mein-bild.svg" width="100%" alt="Oliver Developments Banner" />
+  <img src="./mein-bild.svg" width="100%" alt="Olivers Entwicklungen Banner" />
 
-  <h3 style="margin-top: 10px; font-weight: normal;">
-    <i>"Mathematische Präzision trifft auf Backend-Logik & Visuelle Umsetzung."</i>
-  </h3>
+  <p align="center">
+    <i>„Mathematische Präzision trifft Entwicklung."</i>
+  </p>
 
-  <h1 style="margin-bottom: 10px;">Hallo, ich bin Oliver! 👋</h1>
+  <h1>Hallo, ich bin Oliver! 👋</h1>
 
   <p align="center">
     Ich mache eine <b>Umschulung zum Fachinformatiker</b> und habe eine etwas andere Geschichte:
     <br>
     Meine Leidenschaft für IT reicht <b>von Pascal bis Python</b>, gestützt durch ein akademisches Fundament in <b>Mathematik</b>.
-    <br>
-    <br>
-    Mich interessieren <b>Backend-Logik</b>, <b>Datenstrukturen</b> und Code, der sauber und nachvollziehbar bleibt.
-    <br>
-    <br>
+    <br><br>
+    Mir ist <b>sauberer, nachvollziehbarer Code</b> wichtig, und ich lerne gerade <b>TypeScript</b>.
+    <br><br>
     <i>Olivers Entwicklungen</i> heißt beides: die Software, die ich baue, und meine eigene Entwicklung als Softwareentwickler.
-</p>
+    <br><br>
+    <i>Wer sich weiterentwickelt, entwickelt besser.</i>
+  </p>
 </div>
 
 ---
@@ -26,19 +26,17 @@
 
 Hier verbinde ich 30 Jahre IT-Affinität mit modernen Technologien:
 
-**💻 Backend & Data (Mein Schwerpunkt)**
-* **Python:** Datenverarbeitung (Pandas/NumPy), OOP und API-Design.
-* **SQL:** Design komplexer Datenbankabfragen und Datenmodellierung.
-* **Mathematik:** Lineare Algebra, Analysis & Zahlentheorie als Basis für effiziente Algorithmen.
-* **Java & C++:** Akademisches Fundament (Speicherverwaltung, strikte Typisierung).
+**💻 Programmierung & Daten**
+* **Python:** Datenverarbeitung mit Pandas/NumPy, OOP und API-Design.
+* **SQL:** Datenmodellierung und komplexe Abfragen.
+* **Java & C++:** Akademisches Fundament mit Speicherverwaltung und strikter Typisierung.
+* **Mathematik:** Lineare Algebra, Analysis und Zahlentheorie als Basis für effiziente Algorithmen.
 
-**🌐 Web & Visualisierung**
-* **PHP:** Entwicklung dynamischer Web-Logik (Erfahrung aus Uni-Projekten).
-* **HTML & CSS:** Visuelle Umsetzung von Backend-Daten (Responsive Design).
-* **Tools:** Git, VS Code, Linux (Bash).
+**🌐 Web & Tools**
+* **HTML & CSS:** Aufbau und Gestaltung responsiver Webseiten.
+* **PHP:** Dynamische Web-Logik aus Uni-Projekten.
+* **Git & Linux (Bash):** Versionsverwaltung und Arbeiten auf der Kommandozeile.
 
-**🌱 Aktuelle Lernfelder (Eigeninitiative)**
-* **TypeScript:** Typsystem und saubere Struktur anhand eigener Projekte.
-* **FastAPI:** Aufbau performanter Schnittstellen mit Python.
-* **Computer Vision & Visualisierung:** Anwendung mathematischer Algorithmen zur Bildanalyse (z.B. mit OpenCV).
-* *Konstante Weiterbildung in Clean Code Prinzipien.*
+**🌱 Aktuelle Lernfelder**
+* **TypeScript:** Typsystem und saubere Struktur, geübt an eigenen Projekt.
+* **Clean Code:** Lesbarer, testbarer Code als feste Gewohnheit.
