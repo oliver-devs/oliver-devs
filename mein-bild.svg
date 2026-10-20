@@ -37,6 +37,6 @@
     </path>
   </g>
 
-  <text text-anchor="middle" x="50%" y="100" dx="0" class="text animate-in">OLIVERS</text>
-  <text text-anchor="middle" x="50%" y="130" dx="5" class="desc animate-in">Entwicklungen</text>
+  <text text-anchor="middle" x="50%" y="100" dx="0" class="text animate-in" textLength="300" lengthAdjust="spacing">OLIVERS</text>
+  <text text-anchor="middle" x="50%" y="125" dx="5" class="desc animate-in" textLength="300" lengthAdjust="spacing">Entwicklungen</text>
 </svg>
