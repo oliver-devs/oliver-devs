@@ -16,19 +16,6 @@
     <br>
     Aktuell suche ich für mein <b>Pflichtpraktikum</b> einen Partner, der Wert auf Logik und Code-Qualität legt.
   </p>
-
-  <br>
-
-  <p>
-    <img src="https://img.shields.io/badge/Python-Backend_&_Data-0b3d91?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/PHP-Web_Logic-0b3d91?style=flat-square&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-Datenbanken-0b3d91?style=flat-square&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Math-Algorithmen-0b3d91?style=flat-square&logo=wolframmathematica&logoColor=white" />
-    <br>
-    <a href="mailto:oliver.devs@outlook.com">
-      <img src="https://img.shields.io/badge/Email-Kontaktieren-fc3d21?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-    </a>
-  </p>
 </div>
 
 ---
